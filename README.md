@@ -30,3 +30,11 @@ Los valores pueden modificarse desde Configuración y se guardan localmente en e
 
 ## Publicación
 Es un sitio estático. Sube la carpeta a Vercel, Netlify o GitHub Pages, o abre `index.html` directamente.
+
+## Reglas nuevas de logística
+- Hasta 130 m²: 1 viaje.
+- 131–260 m²: 2 viajes.
+- 261–390 m²: 3 viajes, y así sucesivamente.
+- Cada viaje suma el combustible del recorrido completo y $30 de remolque.
+- Más de 100 m²: se agregan $30 por 2 trabajadores para bajar la grama.
+- Estos valores son editables desde Configuración.
